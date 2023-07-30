@@ -1,0 +1,56 @@
+aula 6'       pratica 35'
+
+aula 5'       prática 1h501
+      13'
+assistir a aula de novo
+
+
+aula 5'      prática
+    15'
+
+[fontes usadas]
+(https://fonts.google.com/specimen/Source+Serif+4?selection.family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,700&query=Source+Serif)
+
+[PRO](
+  <style>
+    @import url("https://use.typekit.net/qvr2gts.css");
+  </style>
+
+  <link rel="stylesheet" href="https://use.typekit.net/qvr2gts.css">
+
+  font-family: "source-serif-pro", serif;
+  font-weight: 700;
+  font-style: normal;
+
+  )
+  :pq este link n leva para o site google fontes com as fontes selecionadas ? ela so pegam no meu microsoft edge
+
+
+Nessa aula Mayk configura as fontes da nossa aplicação:
+
+      Fontes usadas:
+      Source Serif Pro: Regular 400 e Bold 700;
+      Source Serif 4: Medium 500;
+
+      Link das fontes:
+
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500&family=Source+Serif+Pro:wght@400;700&display=swap" rel="stylesheet">
+      Configurações adicionais pra deixar as fontes mais bonitas no navegador:
+
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+
+::::::::::ERRO::::::::::::
+- perdi 40 minutos procurando pela fonte - sendo que o mike ja tinha colocado no final do video
+
+
+
+
+O que teve de novo neste projeto  ?
+
+    :Jeito mais rapido de identificar as fontes com o pluggins do figma 
+    [FONT FASCIA](https://www.figma.com/community/plugin/746097413727734148/Font-Fascia)
+
+      :  text-decoration: underline;
